@@ -1,0 +1,63 @@
+﻿<Page
+    x:Class="healthMe.genderSelect"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:healthMe"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot" Background="white">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image 
+            Source="Assets/Gender_Select.png" 
+            Grid.ColumnSpan="2">
+
+        </Image>
+        <TextBlock 
+            Text="SELECT YOUR GENDER" 
+            FontFamily="Arial" 
+            FontSize="25" 
+            Foreground="black"
+            Height="30"
+            Grid.ColumnSpan="2" 
+            HorizontalAlignment="Center" Margin="38,127,38,483"
+            >
+
+        </TextBlock>
+        <Ellipse 
+            x:Name="maleSelect" 
+            Height="300" 
+            Width="120"
+            Fill="Transparent"
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            Grid.Column="0" 
+            Margin="54,198,26,142" 
+            PointerPressed="male_select">
+        </Ellipse>
+        <Ellipse 
+            x:Name="femaleSelect" 
+            Height="300" 
+            Width="120"
+            Fill="Transparent"
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            Grid.Column="1" 
+            Margin="32,198,48,142" 
+            PointerPressed="female_select">
+        </Ellipse>
+        <Image
+            Source="Assets/credit.png"
+            Width="40"
+            Height="40"
+            VerticalAlignment="Bottom"
+            HorizontalAlignment="Right" 
+            PointerPressed="credit_page" Grid.Column="1" Margin="0,0,12,12"/>
+    </Grid>
+</Page>

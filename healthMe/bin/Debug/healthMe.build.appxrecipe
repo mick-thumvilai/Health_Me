@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MICK_THUMVILAI</Machine>
+    <WindowsUser>Mick</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>81cddcde-f58b-4c77-8f1b-4c6add928df0</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\healthMe.exe">
+      <PackagePath>healthMe.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\10374434_763227623749804_4892318047899876_n.jpg">
+      <PackagePath>Assets\10374434_763227623749804_4892318047899876_n.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\Background.png">
+      <PackagePath>Assets\Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\back_icon.png">
+      <PackagePath>Assets\back_icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\credit.png">
+      <PackagePath>Assets\credit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\Gender_Select.png">
+      <PackagePath>Assets\Gender_Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\map_marker.png">
+      <PackagePath>Assets\map_marker.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\product-row-arrow.png">
+      <PackagePath>Assets\product-row-arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\StartUp.png">
+      <PackagePath>Assets\StartUp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\Credit.xbf">
+      <PackagePath>Credit.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\Female.xbf">
+      <PackagePath>Female.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\firstPage.xbf">
+      <PackagePath>firstPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\genderSelect.xbf">
+      <PackagePath>genderSelect.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\Male.xbf">
+      <PackagePath>Male.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\Maps.xbf">
+      <PackagePath>Maps.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\healthMe.xr.xml">
+      <PackagePath>healthMe.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mick\documents\visual studio 2013\Projects\healthMe\healthMe\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
